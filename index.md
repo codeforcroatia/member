@@ -12,4 +12,9 @@ my_description: 'organizacijski tim'
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
+
+# Online profiles and contact data
+#dribbble: 'mydribbble'
+facebook: 'programirajzahrvatsku'
+twitter: 'codeforcroatia'
 ---
