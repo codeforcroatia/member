@@ -5,9 +5,8 @@ date: 2020-01-01 00:00:00 -0000
 permalink: /template/
 
 # Title and tag line
-my:
-  - name: 'My Name'
-  - description: 'This is who I am & I'm amazing.'
+my_name: 'My Name'
+my_description: 'This is who I am & I'm amazing.'
 
 # Images
 # (store images in directory named as permalink under posts directory)

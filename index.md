@@ -7,9 +7,8 @@ date: 2020-01-01 00:00:00 -0000
 title: 'default'
 description: 'default'
 
-my:
-  - name: 'Code for Croatia'
-  - description: 'organizacijski tim'
+my_name: 'Code for Croatia'
+my_description: 'organizacijski tim'
 
 # Images
 avatar: 'avatar.jpg'
