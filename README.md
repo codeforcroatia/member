@@ -77,4 +77,5 @@ You can find and locally overide advanced options (custom domain name, extra soc
 This page is based on the [cover-card jekyll remote theme](https://github.com/epidrome/cover-card/tree/master).
 
 Example background photo by Anders Jildén and avatar photo by Ayo Ogunseinde, both on [Unsplash](https://unsplash.com/)
+
 Root page & Ops page background photo from CodeAcross 2015 was provided by [Ylodi](https://github.com/Ylodi).
