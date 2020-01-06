@@ -4,9 +4,6 @@ layout: default
 date: 2020-01-01 00:00:00 -0000
 
 # Title and tag line
-title: 'default'
-description: 'default'
-
 my_name: 'Code for Croatia'
 my_description: 'organizacijski tim'
 
@@ -19,10 +16,10 @@ favicon: 'favicon.ico'
 #dribbble: 'mydribbble'
 facebook: 'programirajzahrvatsku'
 twitter: 'codeforcroatia'
-#linkedin: 'mylinkedin'
-#instagram: 'myinsta'
-#pinterest: 'mypinterest'
-#youtube: 'myyoutube'
+#linkedin: ''
+#instagram: ''
+#pinterest: ''
+#youtube: ''
 github-user: 'codeforcroatia'
 #gitlab-user: ''
 #codepen: ''
@@ -33,12 +30,12 @@ github-user: 'codeforcroatia'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-#tumblr: 'mytumblr'
-#weibo: 'myweibo'
-#vk: 'myvk'
+#tumblr: ''
+#weibo: ''
+#vk: ''
 blog_url: 'codeforcroatia.org'
 email: '_UKLONI_hi@codeforcroatia.org'
-#messenger: 'myfbchat'
+#messenger: ''
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 ---
