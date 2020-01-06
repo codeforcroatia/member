@@ -13,7 +13,7 @@ avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
-# Online profiles and contact data
+# Online profiles & contact data
 #dribbble: ''
 facebook: 'programirajzahrvatsku'
 twitter: 'codeforcroatia'
