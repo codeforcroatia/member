@@ -6,7 +6,7 @@
   see fit. You can convert `[ ]` into `[x]` completed check boxes.
 -->
 
-- [ ] I want to ad my member vCard.
+- [ ] I want to add my member vCard.
 - [ ] This is a question about using the theme.
 - [ ] This is a feature request or enhancement.
 - [ ] I believe this to be a bug with the theme.
