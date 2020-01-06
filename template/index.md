@@ -9,10 +9,9 @@ title: 'posjetnica'
 my_name: 'Name Surname'
 my_description: 'This is who I am & I'm amazing.'
 date: 2020-01-01 00:00:00 -0000
-permalink: /template/
 
 # Images
-## reading images from directory name with url slug in permalink
+## reading images from current directory
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
