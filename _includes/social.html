@@ -11,11 +11,12 @@
 
     {% for link in links %}
         {% assign username = site[link.name] %}
+        {% assign usernamePage = page[link.name] %}
         {% if username %}
         {% assign default-icon-class = "fab fa-2x fa-" | append: link.name %}
         <li>
           <a class="{{ link.icon-class | default: default-icon-class }}" href="{{ link.url-scheme | default: '//' }}{{ link.url-pattern | replace: '__USERNAME__', username }}">
-            <span class="description">{{ link.name }} && site.link.name &&& page.link.name</span>
+            <span class="description">{{ link.name }} && {{site.[link.name]}} &&& {{page.[link.name]}} | {{username}} || {{usernamePage}} </span>
           </a>
         </li>
         {% endif %}
