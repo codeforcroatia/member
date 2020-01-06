@@ -7,4 +7,9 @@ title: 'posjetnica'
 # Name and description
 my_name: 'Code for Croatia'
 my_description: 'organizacijski tim'
+
+# Images
+avatar: 'avatar.jpg'
+background: 'background.jpg'
+favicon: 'favicon.ico'
 ---
