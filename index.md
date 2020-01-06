@@ -5,8 +5,8 @@ date: 2020-01-01 00:00:00 -0000
 title: 'posjetnica'
 
 # Member name & description
-my_name: 'Code for Croatia'
-my_description: 'organizacijski tim'
+my_name: 'Organizacijski tim'
+my_description: 'Code for Croatia organizacijski tim čine dobri ljudi poput tebe. Kontaktirati ih možeš putem društvenih mreža:'
 
 # Images
 avatar: 'avatar.jpg'
