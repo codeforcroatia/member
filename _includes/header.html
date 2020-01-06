@@ -1,12 +1,12 @@
 <div class="content">
-    {% if site.background %}
-        <img src="{{ site.background }}" id="fullscreen">
+    {% if page.background %}
+        <img src="{{ page.background }}" id="fullscreen">
     {% else %}
         <img src="{{ site.background }}" id="fullscreen">
     {% endif %}
 
-    {% if site.avatar %}
-        <img src="{{ site.avatar }}" id="avatar">
+    {% if page.avatar %}
+        <img src="{{ page.avatar }}" id="avatar">
     {% else %}
         <img src="{{ site.avatar }}" id="avatar">
     {% endif %}
@@ -14,11 +14,11 @@
     {% if page.my_name %}
         <h1>{{ page.my_name }}</h1>
     {% else %}
-        <h1>v2 site: {{ site.title }}</h1>
+        <h1>John Doe, the coder</h1>
     {% endif %}
     {% if page.my_description %}
         <h3>{{ page.my_description }}</h3>
     {% else %}
-        <h3>v2 site: {{ site.description }}</h3>
+        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at metus a risus euismod imperdiet. Suspendisse congue vitae diam ac semper. Quisque bibendum vulputate tortor.</h3>
     {% endif %}
 </div>
