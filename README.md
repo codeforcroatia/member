@@ -8,7 +8,7 @@
 
 ## Dependencies
 
-Parent upstream repo with single vCard pages is [Epidrome's Cover Card](https://github.com/epidrome/cover-card/tree/master).
+Parent upstream repo with single card pages is [Epidrome's Cover Card](https://github.com/epidrome/cover-card/tree/master).
 
 This theme is based on [jekyll](https://jekyllrb.com/) and [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme). The above dependencies are natively supported by [Github Pages](https://pages.github.com/), which will build and deploy your site as soon as you make any change to your files. The theme is also based on the icons from [Font Awesome](https://fontawesome.com/). 
 
@@ -56,7 +56,7 @@ The configuration file in this repository is `_config.yml` and it defines Code f
 
 ### Updates & changes
 
-Please note that the upstream repo theme is currently in beta, so some updates at the [master branch](https://github.com/epidrome/cover-card/tree/master) might break your site. Don't panic! 
+Please note that the Cover Card upstream repo theme is currently in beta, so some updates at the [master branch](https://github.com/epidrome/cover-card/tree/master) might break your site. Don't panic! 
 
 If you wish to keep your theme frozen and not receive updates, then you can [revert your remote_theme to the last known good configuration](https://github.com/benbalter/jekyll-remote-theme):
 
@@ -70,7 +70,7 @@ Since v04, repo owner can control the order of social media accounts, add new me
 
 ### Expert options
 
-You can find and locally overide advanced options (custom domain name, extra social icons, font styles) for this theme in the documentation (readme) at the upstream parent repo [master branch](https://github.com/epidrome/cover-card/tree/master).
+You can find and locally overide advanced options (custom domain name, extra social icons, font styles) for this theme in the documentation (readme) at the Cover Card parent repo [master branch](https://github.com/epidrome/cover-card/tree/master).
 
 ## Credits
 
