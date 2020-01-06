@@ -6,8 +6,9 @@
             {% assign links = links | concat: link-elem %}
         {% endfor %}
     {% elsif site.social-links-order %}
-        {% for link in site.social-links-order %}
-            {% assign link-elem = site.social-links | where: "name", link %}
+        {% assign page.social-links-order = site.social-links-order %}
+        {% for link in page.social-links-order %}
+            {% assign link-elem = page.social-links | where: "name", link %}
             {% assign links = links | concat: link-elem %}
         {% endfor %}
     {% else %}
