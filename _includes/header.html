@@ -11,10 +11,14 @@
         <img src="{{ site.avatar }}" id="avatar">
     {% endif %}
     
-    {% if page.title %}
-        <h1>v2 page: {{ page.title }}</h1>
+    {% if page.my_name %}
+        <h1>{{ page.my_name }}</h1>
     {% else %}
         <h1>v2 site: {{ site.title }}</h1>
     {% endif %}
-    <h3>v2 site: {{ site.description }}</h3>
+    {% if page.my_description %}
+        <h3>{{ page.my_description }}</h3>
+    {% else %}
+        <h3>v2 site: {{ site.description }}</h3>
+    {% endif %}
 </div>
