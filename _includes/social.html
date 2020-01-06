@@ -7,11 +7,11 @@
         {% endfor %}
     {% elsif site.social-links-order %}
         {% for link in site.social-links-order %}
-            {% assign link-elem = page.social-links | where: "name", link %}
+            {% assign link-elem = site.social-links | where: "name", link %}
             {% assign links = links | concat: link-elem %}
         {% endfor %}
     {% else %}
-        {% assign links = page.social-links %}
+        {% assign links = site.social-links %}
     {% endif %}
 
     {% for link in links %}
