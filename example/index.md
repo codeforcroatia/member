@@ -4,8 +4,8 @@ layout: default
 title: 'posjetnica'
 
 # Member name & description
-my_name: 'Name Surname'
-my_description: 'This is who I am.'
+my_name: 'Ime Prezime'
+my_description: 'Ukratko o meni.'
 
 # Images
 avatar: 'avatar.jpg'
