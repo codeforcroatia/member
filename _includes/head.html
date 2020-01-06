@@ -1,10 +1,20 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<title>{{ site.title }}</title>
+{% if page.my_name %}
+  <title>{{page.my_name}} - {{ site.title }}</title>
+{% else %}
+  <title>{{ site.title }}</title>
+{% endif %}
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="{{ site.description }}">
+{% if page.my_description %}
+  <meta name="description" content="{{ page.my_description }}">
+{% else %}
+  <meta name="description" content="{{ site.description }}">
+{% endif %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-{% if site.favicon %}
-<link rel="shortcut icon" href="{{ site.favicon }}" />
+{% if page.favicon %}
+  <link rel="shortcut icon" href="{{ page.favicon }}" />
+{% else %}
+  <link rel="shortcut icon" href="{{ site.favicon }}" />
 {% endif %}
 <script src="https://kit.fontawesome.com/f7bad4bd2f.js"></script>
