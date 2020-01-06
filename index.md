@@ -4,8 +4,12 @@ layout: default
 date: 2020-01-01 00:00:00 -0000
 
 # Title and tag line
-title: 'Code for Croatia'
-description: 'organizacijski tim'
+title: 'default'
+description: 'default'
+
+my:
+  - name: 'Code for Croatia'
+  - description: 'organizacijski tim'
 
 # Images
 avatar: 'avatar.jpg'

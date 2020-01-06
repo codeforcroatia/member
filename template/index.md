@@ -7,7 +7,7 @@ permalink: /template/
 # Title and tag line
 my:
   - name: 'My Name'
-  - description: 'This is who I am.'
+  - description: 'This is who I am & I'm amazing.'
 
 # Images
 # (store images in directory named as permalink under posts directory)
