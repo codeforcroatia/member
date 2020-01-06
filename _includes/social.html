@@ -5,6 +5,8 @@
             {% assign link-elem = page.social-links | where: "name", link %}
             {% assign links = links | concat: link-elem %}
         {% endfor %}
+    {% else %}
+        {% assign links = page.social-links %}
     {% endif %}
 
     {% for link in links %}
