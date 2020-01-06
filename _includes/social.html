@@ -5,18 +5,16 @@
             {% assign link-elem = page.social-links | where: "name", link %}
             {% assign links = links | concat: link-elem %}
         {% endfor %}
-    {% elsif site.social-links-order %}
-        {% assign page.social-links-order = site.social-links-order %}
-        {% for link in page.social-links-order %}
-            {% assign link-elem = page.social-links | where: "name", link %}
-            {% assign links = links | concat: link-elem %}
-        {% endfor %}
     {% else %}
         {% assign links = site.social-links %}
     {% endif %}
 
     {% for link in links %}
+        {% if page.social-links-order %}
+        {% assign username = page[link.name] %}
+        {% else %}
         {% assign username = site[link.name] %}
+        {% endif %}
         {% if username %}
         {% assign default-icon-class = "fab fa-2x fa-" | append: link.name %}
         <li>
