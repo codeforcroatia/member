@@ -1,23 +1,22 @@
 ---
 # Default layout
-## this is required default stuff, do not change
+# this is required default stuff, do not change
 layout: default
 title: 'posjetnica'
 
 # Member details
-## fill in name, description, date of creation and url slug (same as directory name)
+# fill in name, description, date of creation and url slug (same as directory name)
 my_name: 'Name Surname'
 my_description: 'This is who I am & I'm amazing.'
-date: 2020-01-01 00:00:00 -0000
 
 # Images
-## reading images from current directory
+# reading images from current directory
 avatar: 'avatar.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles & contact data
-## fill in your data or comment out with hash sign
+# fill in your data or comment out with hash sign
 #dribbble: ''
 facebook: 'myfacebook'
 twitter: 'mytwitter'
