@@ -14,7 +14,7 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles & contact data
-#dribbble: ' '
+#dribbble: ''
 facebook: 'programirajzahrvatsku'
 twitter: 'codeforcroatia'
 #linkedin: ''
