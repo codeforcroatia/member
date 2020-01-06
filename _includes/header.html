@@ -10,7 +10,11 @@
     {% else %}
         <img src="{{ site.avatar }}" id="avatar">
     {% endif %}
-
-    <h1>{{ site.title }}</h1>
+    
+    {% if page.title %}
+        <h1>{{ page.title }}</h1>
+    {% else %}
+        <h1>{{ site.title }}</h1>
+    {% endif %}
     <h3>{{ site.description }}</h3>
 </div>
