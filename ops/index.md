@@ -5,8 +5,8 @@ date: 2020-01-01 00:00:00 -0000
 title: 'posjetnica'
 
 # Member name & description
-my_name: 'vCard za članove'
-my_description: 'Klikni na link za upute kako i ti možeš kreirati i dodati svoju Code for Croatia online posjetnicu'
+my_name: 'Organizacijski tim'
+my_description: 'Code for Croatia organizacijski tim čine dobri ljudi poput tebe. Kontaktirati ih možeš putem društvenih mreža:'
 
 # Images
 avatar: 'avatar.jpg'
@@ -15,13 +15,13 @@ favicon: 'favicon.ico'
 
 # Online profiles & contact data
 #dribbble: ''
-#facebook: ''
-#twitter: ''
+facebook: 'programirajzahrvatsku'
+twitter: 'codeforcroatia'
 #linkedin: ''
 #instagram: ''
 #pinterest: ''
 #youtube: ''
-github-user: 'codeforcroatia/member'
+github-user: 'codeforcroatia'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -34,7 +34,7 @@ github-user: 'codeforcroatia/member'
 #tumblr: ''
 #weibo: ''
 #vk: ''
-#blog_url: 'codeforcroatia.github.io/member/'
-#email: ''
+blog_url: 'codeforcroatia.org'
+email: 'UKLONI_hi@codeforcroatia.org'
 #messenger: ''
 ---
