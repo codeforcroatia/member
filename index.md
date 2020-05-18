@@ -35,6 +35,6 @@ github-user: 'codeforcroatia/member'
 #vk: ''
 #blog_url: 'codeforcroatia.github.io/member/'
 #email: 'name@domain.tld' # It is NOT recommended to store plain email publicly due to spam, use other methodes of messaging
-#webmail: 'https://aemail.com/__SHORTCODE__'
+#webmail: 'aemail.com/__SHORTCODE__'
 #messenger: ''
 ---
