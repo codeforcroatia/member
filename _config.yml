@@ -38,7 +38,7 @@ favicon: 'favicon.ico'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, gitlab-user, codepen, steam, rubygems, stack-overflow, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, soundcloud, lastfm, reddit, messenger, medium, blog_url, email]
+social-links-order: [github-user, gitlab-user, codepen, steam, rubygems, stack-overflow, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, soundcloud, lastfm, reddit, messenger, medium, blog_url, email, webmail]
 
 # Advanced settings
 plugins:
@@ -70,7 +70,6 @@ social-links:
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
-    relationship-attribute: 'nofollow'
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
