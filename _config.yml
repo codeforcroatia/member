@@ -1,6 +1,9 @@
 # Theme
 remote_theme: codeforcroatia/member
 
+# Base URL
+baseurl: "http://codeforcroatia.github.io/member/"
+
 # Title and tag line
 title: 'Code for Croatia'
 description: 'Online posjetnice Code for Croatia članova.'
