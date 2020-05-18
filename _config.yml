@@ -163,5 +163,6 @@ social-links:
     icon-class: fas fa-2x fa-envelope
     
   - name: webmail
-    url-pattern: 'https://aemail.com/__SHORTCODE__'
+    url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
+    relationship-attribute: 'nofollow'
