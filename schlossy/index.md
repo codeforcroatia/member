@@ -34,6 +34,6 @@ github-user: 'schlos'
 #weibo: ''
 #vk: ''
 blog_url: 'miroslav-schlossberg.from.hr'
-email: 'U.K.L.O.N.I_miroslav@codeforcroatia.org'
+#email: 'email@email.com' # It is NOT recommended to store plain email publicly due to spam, use other methodes of messaging
 #messenger: ''
 ---
