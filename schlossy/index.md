@@ -5,7 +5,7 @@ title: 'posjetnica'
 
 # Member name & description
 my_name: 'Miroslav Schlossberg'
-my_description: 'Pokretač Code for Croatia. Haktivist. Tester. Voditelj projekata.'
+my_description: 'Pokretač Code for Croatia. Haktivist. Tester i analitičar softvera. Voditelj projekata.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -34,6 +34,6 @@ github-user: 'schlos'
 #weibo: ''
 #vk: ''
 blog_url: 'miroslav-schlossberg.from.hr'
-email: 'UKLONI_miroslav@codeforcroatia.org'
+email: 'UKL.ONI_miroslav@codeforcroatia.org'
 #messenger: ''
 ---
