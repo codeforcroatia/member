@@ -35,5 +35,6 @@ github-user: 'schlos'
 #vk: ''
 blog_url: 'miroslav-schlossberg.from.hr'
 #email: 'email@email.com' # It is NOT recommended to store plain email publicly due to spam, use other methodes of messaging
+#webmail: 'https://aemail.com/__SHORTCODE__'
 #messenger: ''
 ---
