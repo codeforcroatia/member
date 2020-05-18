@@ -70,6 +70,7 @@ social-links:
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
+    relationship-attribute: 'nofollow'
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
