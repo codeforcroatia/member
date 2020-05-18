@@ -34,6 +34,7 @@ github-user: 'codeforcroatia'
 #weibo: ''
 #vk: ''
 blog_url: 'codeforcroatia.org'
-email: 'UKLONI_hi@codeforcroatia.org'
+#email: 'name@domain.tld' # It is NOT recommended to store plain email publicly due to spam, use other methodes of messaging
+webmail: 'https://aemail.com/M8E3'
 #messenger: ''
 ---
