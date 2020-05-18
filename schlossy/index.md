@@ -34,6 +34,6 @@ github-user: 'schlos'
 #weibo: ''
 #vk: ''
 blog_url: 'miroslav-schlossberg.from.hr'
-email: 'UKL.ONI_miroslav@codeforcroatia.org'
+email: 'U.K.L.O.N.I_miroslav@codeforcroatia.org'
 #messenger: ''
 ---
