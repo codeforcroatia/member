@@ -164,5 +164,5 @@ social-links:
     
   - name: webmail
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-2x fa-envelope-o
+    icon-class: fas fa-2x fa-envelope
     relationship-attribute: 'nofollow'
