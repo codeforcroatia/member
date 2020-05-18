@@ -34,6 +34,6 @@ github-user: 'mygithub'
 #weibo: ''
 #vk: ''
 blog_url: 'dev.codeforcroatia.org'
-email: 'lana@codeforcroatia.org'
+#email: 'email@email.com' # It is NOT recommended to store plain email publicly due to spam, use other methodes of messaging
 #messenger: ''
 ---
