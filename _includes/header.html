@@ -6,9 +6,9 @@
     {% endif %}
 
     {% if page.avatar %}
-        <img src="https://images.weserv.nl/?url={{ page.avatar }}&w=180&h=180&output=jpg&q=65&fit=cover" id="avatar">
+        <img src="https://images.weserv.nl/?url={{ page.avatar | relative_url }}&w=180&h=180&output=jpg&q=65&fit=cover" id="avatar">
     {% else %}
-        <img src="https://images.weserv.nl/?url={{ site.avatar }}&w=180&h=180&output=jpg&q=65&fit=cover" id="avatar">
+        <img src="https://images.weserv.nl/?url={{ site.avatar | relative_url }}&w=180&h=180&output=jpg&q=65&fit=cover" id="avatar">
     {% endif %}
     
     {% if page.my_name %}
